@@ -7,12 +7,12 @@
 
 # Site settings
 title: Deshotel Development
-email: your-admin@deshoteldevelopment.com
+email: admin@deshoteldevelopment.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome! This test site is meant to serve as a blog and a portfolio of sorts as 
   I dive into the exciting world of web development. Please check back often to follow my
   progress and learn with me.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "http://www.deshoteldevelopment.com" # the base hostname & protocol for your site
 twitter_username: coming-soon
 github_username:  Deshotel Development
